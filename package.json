@@ -1,0 +1,15 @@
+{
+  "name": "google3",
+  "version": "1.0.0",
+  "description": "Google3 package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/angular/google3"
+  },
+  "author": "Martin Probst (martin@probst.io)",
+  "license": "MIT"
+}
